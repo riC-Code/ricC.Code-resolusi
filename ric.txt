@@ -5,7 +5,7 @@ ric ( front end dev )resolusi :
 - SASS
 - GITHUB
 - JQUERY
-- PACKAGE MANAGER
+- PACKAGE MANAGER (YNM , YARD)
 - API
 - FRAMEWORK
-- DATABAS
+- DATABASE (MY SQL)
