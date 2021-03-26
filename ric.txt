@@ -1,0 +1,11 @@
+ric ( front end dev )resolusi :
+- HTML
+- CSS
+- JS
+- SASS
+- GITHUB
+- JQUERY
+- PACKAGE MANAGER
+- API
+- FRAMEWORK
+- DATABAS
